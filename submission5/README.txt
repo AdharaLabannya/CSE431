@@ -5,7 +5,7 @@ Link to unlisted YouTube video:
 http
 
 Public link to the slide (Anyone on the internet can view without login):
-htps://docs.google.com/
+https://docs.google.com/presentation/d/1imCfLgNThjoYIxzLCV9iegT41M1OYmnOD21l4gvij28/edit?usp=sharing
 
 Project title:
 Evaluating Different Machine Learning Models For Malicious URL Detection by Employing Natural Language Processing Techniques
