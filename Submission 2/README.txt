@@ -1,5 +1,5 @@
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/RTS_yQb4Io8
 
 Public link to the slide (Anyone on the internet can view without login):
 https://www.canva.com/design/DAF4fb-BOWI/ay7sjQlyMQwLPNxwECMquw/view?utm_content=DAF4fb-BOWI&utm_campaign=designshare&utm_medium=link&utm_source=editor
