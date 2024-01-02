@@ -11,7 +11,7 @@ Project title:
 Evaluating Different Machine Learning Models For Malicious URL Detection by Employing Natural Language Processing Techniques
 
 Group Number:
-18
+27
 
 Group Members:
 20101181 Adhara Labannya
